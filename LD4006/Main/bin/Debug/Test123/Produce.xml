@@ -1,0 +1,386 @@
+<Root>
+  <Default>
+    <Info value="">
+    </Info>
+    <Value_List>
+      <Count value="3">
+      </Count>
+      <Value1>
+        <Name value="%PANEL_ID%">
+        </Name>
+        <Info value="Panel_ID">
+        </Info>
+        <Value value="T339P2A3NQ03">
+        </Value>
+      </Value1>
+      <Value2>
+        <Name value="%TIME%">
+        </Name>
+        <Info value="">
+        </Info>
+        <Value value="01:51">
+        </Value>
+      </Value2>
+      <Value3>
+        <Name value="%DATE%">
+        </Name>
+        <Info value="">
+        </Info>
+        <Value value="01/08">
+        </Value>
+      </Value3>
+    </Value_List>
+    <Print_Format>
+      <Count value="106">
+      </Count>
+      <Items1 value=";[Format]">
+      </Items1>
+      <Items2 value=";LABEL_VERSION=1.0.0">
+      </Items2>
+      <Items3 value="FORMAT_CODE=">
+      </Items3>
+      <Items4 value="^XA">
+      </Items4>
+      <Items5 value="^MMT,Y                         	;設定列印">
+      </Items5>
+      <Items6 value="~SD20                         	;列印濃度(00~30)">
+      </Items6>
+      <Items7 value="^LT 85                        	;Label Top位置(-120~120)                                         ">
+      </Items7>
+      <Items8 value="^LS-35            		;Label Shift(-9999~9999)">
+      </Items8>
+      <Items9 value="^LH0,10                       	;Label Home">
+      </Items9>
+      <Items10 value="^XZ                            	;End Format">
+      </Items10>
+      <Items11 value="">
+      </Items11>
+      <Items12 value="^XA">
+      </Items12>
+      <Items13 value="^FO110,32^A0,14,20^FDGDD550IC0170S^FS           	;^FOXXX,YYY位置">
+      </Items13>
+      <Items14 value="^FO110,44^A0,14,20^FD132000004715^FS            	;^A0,HHH,WWW字體大小">
+      </Items14>
+      <Items15 value="^FO110,62^A0,14,20^FD%LINE_ID%  %DATE%  %VER%^FS">
+      </Items15>
+      <Items16 value="^FO110,76^A0,16,20^FD%CODE_CIM%^FS">
+      </Items16>
+      <Items17 value="^FO20,35^BY1^BXN,5,200,,,,^FD%PANEL_ID%^FS">
+      </Items17>
+      <Items18 value="^XZ">
+      </Items18>
+      <Items19 value="">
+      </Items19>
+      <Items20 value="">
+      </Items20>
+      <Items21 value="">
+      </Items21>
+      <Items22 value="">
+      </Items22>
+      <Items23 value="">
+      </Items23>
+      <Items24 value="">
+      </Items24>
+      <Items25 value="">
+      </Items25>
+      <Items26 value="">
+      </Items26>
+      <Items27 value="">
+      </Items27>
+      <Items28 value="">
+      </Items28>
+      <Items29 value="">
+      </Items29>
+      <Items30 value="">
+      </Items30>
+      <Items31 value="">
+      </Items31>
+      <Items32 value="">
+      </Items32>
+      <Items33 value="">
+      </Items33>
+      <Items34 value="">
+      </Items34>
+      <Items35 value="">
+      </Items35>
+      <Items36 value="">
+      </Items36>
+      <Items37 value="">
+      </Items37>
+      <Items38 value="">
+      </Items38>
+      <Items39 value="">
+      </Items39>
+      <Items40 value="">
+      </Items40>
+      <Items41 value="">
+      </Items41>
+      <Items42 value="">
+      </Items42>
+      <Items43 value="">
+      </Items43>
+      <Items44 value="">
+      </Items44>
+      <Items45 value="">
+      </Items45>
+      <Items46 value="">
+      </Items46>
+      <Items47 value="">
+      </Items47>
+      <Items48 value="">
+      </Items48>
+      <Items49 value="">
+      </Items49>
+      <Items50 value="">
+      </Items50>
+      <Items51 value="">
+      </Items51>
+      <Items52 value="">
+      </Items52>
+      <Items53 value="">
+      </Items53>
+      <Items54 value="">
+      </Items54>
+      <Items55 value="">
+      </Items55>
+      <Items56 value="">
+      </Items56>
+      <Items57 value="">
+      </Items57>
+      <Items58 value="">
+      </Items58>
+      <Items59 value="">
+      </Items59>
+      <Items60 value="">
+      </Items60>
+      <Items61 value="">
+      </Items61>
+      <Items62 value="">
+      </Items62>
+      <Items63 value="">
+      </Items63>
+      <Items64 value="">
+      </Items64>
+      <Items65 value="">
+      </Items65>
+      <Items66 value="">
+      </Items66>
+      <Items67 value="">
+      </Items67>
+      <Items68 value="">
+      </Items68>
+      <Items69 value="">
+      </Items69>
+      <Items70 value="">
+      </Items70>
+      <Items71 value="">
+      </Items71>
+      <Items72 value="">
+      </Items72>
+      <Items73 value="">
+      </Items73>
+      <Items74 value="">
+      </Items74>
+      <Items75 value="">
+      </Items75>
+      <Items76 value="">
+      </Items76>
+      <Items77 value="">
+      </Items77>
+      <Items78 value="">
+      </Items78>
+      <Items79 value="">
+      </Items79>
+      <Items80 value="">
+      </Items80>
+      <Items81 value="">
+      </Items81>
+      <Items82 value="">
+      </Items82>
+      <Items83 value="">
+      </Items83>
+      <Items84 value="">
+      </Items84>
+      <Items85 value="">
+      </Items85>
+      <Items86 value="">
+      </Items86>
+      <Items87 value="">
+      </Items87>
+      <Items88 value="">
+      </Items88>
+      <Items89 value="">
+      </Items89>
+      <Items90 value="">
+      </Items90>
+      <Items91 value="">
+      </Items91>
+      <Items92 value="">
+      </Items92>
+      <Items93 value="">
+      </Items93>
+      <Items94 value="">
+      </Items94>
+      <Items95 value="">
+      </Items95>
+      <Items96 value="">
+      </Items96>
+      <Items97 value="">
+      </Items97>
+      <Items98 value="">
+      </Items98>
+      <Items99 value="">
+      </Items99>
+      <Items100 value="">
+      </Items100>
+      <Items101 value="">
+      </Items101>
+      <Items102 value="">
+      </Items102>
+      <Items103 value="">
+      </Items103>
+      <Items104 value="">
+      </Items104>
+      <Items105 value="">
+      </Items105>
+      <Items106 value="">
+      </Items106>
+    </Print_Format>
+    <Printer_Tear_Off value="-90">
+    </Printer_Tear_Off>
+    <MS_Param>
+      <Info value="">
+      </Info>
+      <LD升降>
+        <供料>
+          <等待位置 value="0">
+          </等待位置>
+          <供料上升高度位置 value="578.248">
+          </供料上升高度位置>
+          <供料完成下降位置 value="332.248">
+          </供料完成下降位置>
+        </供料>
+        <出料>
+          <滿料高度位置 value="0">
+          </滿料高度位置>
+          <收料位置 value="577.982">
+          </收料位置>
+          <供料完成高度位置 value="423.982">
+          </供料完成高度位置>
+        </出料>
+      </LD升降>
+      <取料手臂>
+        <X>
+          <等待位置 value="0">
+          </等待位置>
+          <取料位置 value="35">
+          </取料位置>
+          <放料位置 value="984">
+          </放料位置>
+        </X>
+        <供料Y>
+          <等待位置 value="0">
+          </等待位置>
+          <取料位置 value="270">
+          </取料位置>
+          <放料位置 value="270">
+          </放料位置>
+        </供料Y>
+        <供料Z>
+          <下降慢速高度位置 value="107">
+          </下降慢速高度位置>
+          <上升慢速高度位置 value="107">
+          </上升慢速高度位置>
+          <放料位置 value="147">
+          </放料位置>
+          <上升慢速位置 value="10">
+          </上升慢速位置>
+        </供料Z>
+        <出料Y>
+          <取料位置 value="270">
+          </取料位置>
+          <放料位置 value="270">
+          </放料位置>
+        </出料Y>
+        <出料Z>
+          <取料位置 value="62">
+          </取料位置>
+          <放SP位置 value="118">
+          </放SP位置>
+          <放BOX位置 value="62">
+          </放BOX位置>
+        </出料Z>
+      </取料手臂>
+      <載台>
+        <Y>
+          <取料位置 value="787">
+          </取料位置>
+          <讀碼位置 value="34.5">
+          </讀碼位置>
+          <貼標位置 value="300">
+          </貼標位置>
+          <出料位置 value="787">
+          </出料位置>
+        </Y>
+        <靠位X>
+          <等待位置 value="320">
+          </等待位置>
+          <靠位位置 value="128">
+          </靠位位置>
+        </靠位X>
+        <靠位Y>
+          <等待位置 value="475">
+          </等待位置>
+          <靠位位置 value="368">
+          </靠位位置>
+        </靠位Y>
+      </載台>
+      <貼標手臂>
+        <X>
+          <等待位置 value="5">
+          </等待位置>
+          <讀碼位置 value="354.384">
+          </讀碼位置>
+          <取標位置 value="444">
+          </取標位置>
+          <貼標位置 value="210">
+          </貼標位置>
+        </X>
+        <Z>
+          <等待位置 value="0">
+          </等待位置>
+          <讀碼位置 value="490">
+          </讀碼位置>
+          <取標位置 value="40.519">
+          </取標位置>
+          <貼標位置 value="472">
+          </貼標位置>
+        </Z>
+        <Q>
+          <等待位置 value="0">
+          </等待位置>
+          <貼標位置 value="-90">
+          </貼標位置>
+        </Q>
+      </貼標手臂>
+      <ULD手臂>
+        <Y>
+          <等待位置 value="670">
+          </等待位置>
+          <取料位置 value="10">
+          </取料位置>
+          <出料位置 value="1043">
+          </出料位置>
+        </Y>
+        <Z>
+          <等待位置 value="220">
+          </等待位置>
+          <取料位置 value="205">
+          </取料位置>
+          <出料位置 value="32">
+          </出料位置>
+        </Z>
+      </ULD手臂>
+    </MS_Param>
+  </Default>
+</Root>

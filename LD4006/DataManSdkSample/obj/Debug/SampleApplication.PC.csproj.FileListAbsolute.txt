@@ -1,0 +1,33 @@
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\SampleApplication.exe
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\SampleApplication.pdb
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.PC.dll
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.CogNamer.PC.dll
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.PC.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.frmReconnecting.resources
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.MainForm.resources
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.Properties.Resources.resources
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.PC.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.exe
+C:\Program Files (x86)\Cognex\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.pdb
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\SampleApplication.exe
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\SampleApplication.pdb
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\bin\Debug\SampleApplication.exe
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\bin\Debug\SampleApplication.pdb
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.frmReconnecting.resources
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.MainForm.resources
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\Cognex.DataMan.SDK.Properties.Resources.resources
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\SampleApplication.PC.csproj.GenerateResource.Cache
+D:\Users\shaowei.zheng\Desktop\DataManSdkSample\obj\Debug\SampleApplication.PC.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\LDXX\1130\LD4006\DataManSdkSample\obj\Debug\SampleApplication.exe
+D:\Users\shaowei.zheng\Desktop\程式整理\LDXX\1130\LD4006\DataManSdkSample\obj\Debug\SampleApplication.pdb
+D:\1201\LD4006\DataManSdkSample\obj\Debug\SampleApplication.exe
+D:\1201\LD4006\DataManSdkSample\obj\Debug\SampleApplication.pdb
+D:\LD4006(2023-12-01)\LD4006\DataManSdkSample\obj\Debug\SampleApplication.exe
+D:\LD4006(2023-12-01)\LD4006\DataManSdkSample\obj\Debug\SampleApplication.pdb
+D:\LD4006(2023-12-05)\LD4006\DataManSdkSample\obj\Debug\SampleApplication.exe
+D:\LD4006(2023-12-05)\LD4006\DataManSdkSample\obj\Debug\SampleApplication.pdb

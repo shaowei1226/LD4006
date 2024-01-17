@@ -1,0 +1,34 @@
+^FO X座標,Y座標 ^BY1^BXN,大小,上下,,,,^FD%PANEL_ID%^FS   ; 此行為Barcode
+
+^FO110,30^A0,16,22^%FONT_SIZE%,20^FD%Work_ID%^FS  ;此行為純文字    ;^FOXXX,YYY位置
+				    		 
+						     		   ;^A0,HHH,WWW字體大小
+
+
+
+
+;[Format]
+;LABEL_VERSION=1.0.0
+FORMAT_CODE=
+######################基本參數#################
+^XA
+^MMT,Y                         	;設定列印
+~SD20                         	;列印濃度(00~30)
+^LT 85                        	;Label Top位置(-120~120)                                         
+^LS-35            		;Label Shift(-9999~9999)
+^LH0,10                       	;Label Home
+^XZ                            	;End Format
+###############################################
+
+
+#####################變數######################(變數在Recipe裡面新增)
+^XA
+^FO20,30^BY1^BXN,4,200,,,,^FD%PANEL_ID%^FS        ; 此行為Barcode(二維碼)  "%PANEL_ID%"此為Reader掃碼給的變數 不用自行輸入
+
+^FO110,30^A0,24,20^FD%Work_ID%^FS      ;^FOXXX,YYY位置
+^FO110,55^A0,24,20^FD%Store_ID%^FS      ;^A0,HHH,WWW字體大小
+^FO110,80^A0,24,20^FD%CODE_CIM%^FS
+^FO110,105^A0,24,20^FD%PANEL_ID%^FS		  ;此行為"%PANEL_ID%"的字串
+^FO110,125^A0,24,20^FD%DATE%  %TIME%^FS           ;"DATE",%TIME" 是系統預設,也不用自行輸入
+^XZ
+################################################
