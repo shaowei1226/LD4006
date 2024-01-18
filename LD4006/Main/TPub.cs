@@ -534,17 +534,21 @@ namespace Main
             Recipe.Value_List.Set_Value(Recipe.Value_Panel_ID, "");
             Recipe.Value_List.Reflash = true;
 
-            result = Panel_Reader.Get_Code(ref code);
             if (code == "")
             {
                 result = false;
             }
+
+            result = Panel_Reader.Get_Code(ref code);
+
+
             if (result)
             {
                 Recipe.Value_List.Set_Value(Recipe.Value_Panel_ID, code);
                 PLC.PLC_Out.P_Code = code;
                 Recipe.Value_List.Reflash = true;
             }
+          
             //Recipe.Value_List
             return result;
         }

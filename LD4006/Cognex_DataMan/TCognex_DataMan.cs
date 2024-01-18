@@ -188,8 +188,9 @@ namespace Cognex.DataMan
                     //picResultImage.Image = null;
                    // picResultImage.BackColor = Color.Blue;
                     Image img = null;
+                    Read_String=  Get_String_Xml(args.XmlResult.ToString());
                     ResultInfo mResultinfo = new ResultInfo(args.ResultId, args.ResultId, img, "", "", args.XmlResult);
-                   Read_String=  Get_String_Xml(args.XmlResult.ToString());
+                   
 
                    // Read_String = args.XmlResult.ToString();
                     //   OnResultInQueue.Enqueue(mResultinfo);
@@ -452,11 +453,13 @@ namespace Cognex.DataMan
                 Read_Finish = false;
              //   Read_String = "";
                 Trigger_ON();
-                Result_Collector.SimpleResultDropped += Results_SimpleResultDropped;
+               // Result_Collector.SimpleResultDropped += Results_SimpleResultDropped;
                  
-                //Trigger_OFF();
-               // while (!Read_Finish) { };
-                read_code = Read_String;
+              //  Trigger_OFF();
+              while (!Read_Finish) { };
+                read_code = Read_String;             
+                read_code = read_code.Replace("\r", "");
+                read_code = read_code.Replace("\n", "");
                 Log_Add(string.Format("Get_Code = {0:s}", Read_String));
                 result = true;
             }
